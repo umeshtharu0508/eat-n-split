@@ -1,1 +1,1 @@
-In this project some starter html(boiler-plate) code is already given by instructor and css styling also completely given by instructor but all core React coding and logic part is practiced by me in the guidance of instructor(Jonas Schmedtmann)
+In this project starter html(boiler-plate) code is already given by instructor and css styling also completely given by instructor but all core React coding and logic part is practiced by me in the guidance of instructor(Jonas Schmedtmann)
